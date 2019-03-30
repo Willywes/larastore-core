@@ -1,0 +1,19 @@
+{
+    "name": "Willywes/larastore-core",
+    "description": "Simple e-Commerce on Laravel",
+    "type": "core",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "willywes",
+            "email": "willywes@hotmail.cl"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Willywes\\larastore-core\\": "src/"
+        }
+    }
+}
