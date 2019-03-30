@@ -15,6 +15,7 @@ class LarastoreServiceProvider extends ServiceProvider
 
     public function register()
     {
+        //
     }
 }
 ?>
